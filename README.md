@@ -14,24 +14,21 @@ This Flutter project demonstrates a user authentication system using Firebase. I
 
 1. Clone the repository:
 
-   ```shell
-   git clone https://github.com/ganesh-vallabhareddy/FlutterFirebaseAuth.git
+   ` git clone https://github.com/ganesh-vallabhareddy/FlutterFirebaseAuth.git
 
 
 2. Navigate to the project directory:
    
-  ```shell
-  cd FlutterFirebaseAuth
+  
+  ` cd FlutterFirebaseAuth
   
 3. Install the required dependencies:
 
-```shell
-  flutter pub get
+   ` flutter pub get
   
 4. Run the app on an emulator or physical device:
 
-```shell
-  flutter run
+  ` flutter run
 
 ## Dependencies
 The project relies on the following dependencies:

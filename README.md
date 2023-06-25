@@ -16,7 +16,8 @@ This Flutter project demonstrates a user authentication system using Firebase. I
 
    ```shell
    git clone https://github.com/ganesh-vallabhareddy/FlutterFirebaseAuth.git
-   
+
+
 2. Navigate to the project directory:
    
   ```shell

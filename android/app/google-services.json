@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "705286616160",
+    "project_id": "learningfb-d7191",
+    "storage_bucket": "learningfb-d7191.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705286616160:android:995a011eb971c03d79ff05",
+        "android_client_info": {
+          "package_name": "com.example.fbtutor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705286616160-8s1ocmi66l3lo2k8c2ljlk4lelnq0kno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfLmRN6U7mY5ylqXMKRKbY67yEl6IqYnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705286616160-8s1ocmi66l3lo2k8c2ljlk4lelnq0kno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

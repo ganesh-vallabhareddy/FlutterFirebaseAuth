@@ -4,11 +4,12 @@ This Flutter project demonstrates a user authentication system using Firebase. I
 
 ## Features
 
-- User sign up: New users can create an account by providing their email and password.
-- User sign in: Existing users can sign in using their registered email and password.
-- User authentication: Firebase Authentication is used to handle user authentication and manage user sessions.
-- Display user email: After successful sign-in, the user's email is displayed in the app bar.
-- List of registered users: The app displays a list of users who have registered in the app.
+- **User sign up:** New users can create an account by providing their email and password.
+- **User sign in:** Existing users can sign in using their registered email and password.
+- **Reset Password:** Users can also reset their password by providing their email address. They will receive a password reset link to their email, allowing them to update their password.
+- **User authentication:** Firebase Authentication is used to handle user authentication and manage user sessions.
+- **Display user email:** After successful sign-in, the user's email is displayed in the app bar.
+- **List of registered users:** The app displays a list of users who have registered in the app.
 
 ## Installation
 
